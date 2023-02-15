@@ -1,0 +1,25 @@
+{
+  "name": "mineflayer-antihunger",
+  "version": "1.0.5",
+  "description": "Adds antihunger functionality to your mineflayer bot (Tested on 1.12)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baitinq/mineflayer-antihunger.git"
+  },
+  "keywords": [
+    "mineflayer",
+    "plugin",
+    "antihunger",
+    "bot"
+  ],
+  "author": "Baitinq",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Baitinq/mineflayer-antihunger/issues"
+  },
+  "homepage": "https://github.com/Baitinq/mineflayer-antihunger#readme"
+}
